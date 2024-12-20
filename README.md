@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">Carlos Henrique</h1>
-  <h3 align="center">Cursando Eng. de Software:grin:<h3>
+  <h3 align="center">Cursando Eng. de Software :grin:<h3>
   <br/>
 </p>
   
